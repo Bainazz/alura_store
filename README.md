@@ -13,7 +13,7 @@ Para isso, foi feita uma análise  baseada em dados reais de vendas e desempenho
 
 #### 💰 Faturamento Total das Lojas
 
-O faturamento foi calculado somando o valor dos produtos vendidos com o valor do frete cobrado:
+O faturamento foi calculado somando o valor dos produtos vendidos juntamente com o valor do frete cobrado:
 
 * **Loja 1**: R$ 1.616.347,09
 * **Loja 2**: R$ 1.567.773,22
@@ -22,30 +22,26 @@ O faturamento foi calculado somando o valor dos produtos vendidos com o valor do
 
 <details>
   <summary>📊 Ver gráfico de faturamento total</summary>
-  ![Gráfico de faturamento]
-</details>
+  
+  ![Gráfico de faturamento](Graficos/faturamento.png)
 
+</details>
 
 > 
 
 
-A **Loja 1** apresenta o maior faturamento, o que a torna valiosa em termos de volume de vendas e rentabilidade bruta.
+Mediante analise, a **Loja 1** apresenta o maior faturamento, o que a torna valiosa em termos de volume de vendas e rentabilidade bruta para o Senhor João.
 
 ---
 
 #### 🛍️ Categorias de Produtos
 
-As categorias mais e menos vendidas por loja foram:
+As categorias mais e menos vendidas por cada loja foram:
 
 * **Loja 1**:  Mais vendida: *móveis (465)* / Menos vendida: *utilidades domésticas (171)*
 * **Loja 2**:  Mais vendida: *móveis (442)* / Menos vendida: *utilidades domésticas (181)*
 * **Loja 3**:  Mais vendida: *móveis (499)* / Menos vendida: *instrumentos musicais & utilidades domésticas (177)*
 * **Loja 4**:  Mais vendida: *móveis (480)* / Menos vendida: *instrumentos musicais (170)*
-
-<details>
-  <summary>📊 Ver gráfico da categoria de produtos</summary>
-  ![Gráfico da categoria de produtos]
-</details>
 
 > 
 
@@ -53,15 +49,25 @@ As categorias mais e menos vendidas por loja foram:
 
 #### ⭐ Média de Avaliações dos Clientes
 
-* **Loja 1**: 3.98 ☆
-* **Loja 2**: 4.04 ☆
-* **Loja 3**: 4.05 ☆
-* **Loja 4**: 4.00 ☆
+* **Loja 1**: 3.98 ⭐⭐⭐⭐☆
+* **Loja 2**: 4.04 ⭐⭐⭐⭐☆
+* **Loja 3**: 4.05 ⭐⭐⭐⭐☆
+* **Loja 4**: 4.00 ⭐⭐⭐⭐☆
 
 <details>
-  <summary>📊 Ver gráfico da média de avaliações</summary>
-  ![Gráfico da média de avaliações]
+  <summary>📊 Ver gráficos referente as médias das avaliações</summary>
+  
+  ![Gráfico da média de avaliações da loja 1](Graficos/avaliacao_loja1.png)
+
+  ![Gráfico da média de avaliações da loja 2](Graficos/avaliacao_loja2.png)
+
+  ![Gráfico da média de avaliações da loja 3](Graficos/avaliacao_loja3.png)
+
+  ![Gráfico da média de avaliações da loja 4](Graficos/avaliacao_loja4.png)
+
 </details>
+
+
 
 > 
 
@@ -77,8 +83,12 @@ As categorias mais e menos vendidas por loja foram:
 * **Loja 4**: Mais vendido: *Cama box (62)* / Menos vendido: *Guitarra (33)*
 
 <details>
-  <summary>📊 Ver gráfico dos produtos mais e menos vendidos</summary>
-  ![Gráfico dos produtos mais e menos vendidos]
+  <summary>📊 Ver gráfico dos produtos mais vendidos</summary>
+  
+  ![Gráfico sobre o produto mais vendido](Graficos/produto_mais_vendido.png)
+
+  ![Gráfico sobre o produto menos vendido](Graficos/produto_menos_vendido.png)
+
 </details>
 
 > 
@@ -93,13 +103,15 @@ As categorias mais e menos vendidas por loja foram:
 * **Loja 4**: R\$ 31,28
 
 <details>
-  <summary>📊 Ver gráfico da média de frete</summary>
-  ![Gráfico da média de frete]
+  <summary>📊 Ver gráfico dos produtos mais vendidos</summary>
+  
+  ![Gráfico da média de frete](Graficos/valor_frete.png)
+
 </details>
 
 > 
 
-A **Loja 4** tem o menor frete médio, o que pode ser um diferencial competitivo se os demais indicadores forem fortes.
+A **Loja 4** tem o menor frete médio, o que pode ser um diferencial competitivo se os demais indicadores forem igualmente fortes ao fim da analise.
 
 ---
 
@@ -111,12 +123,12 @@ Após análise de todos os indicadores, a **recomendação é que o Senhor João
 
 * É a loja com **menor faturamento** entre as quatro.
 * Tem a **segunda pior média de avaliação** dos clientes.
-* Embora tenha o **frete mais baixo**, isso não compensa a menor performance geral.
+* Embora tenha o **frete mais baixo**, isso não compensa a performance geral ser inferior as demais lojas.
 * Não possui produtos ou categorias de grande destaque em comparação com as demais lojas.
 
 As **Lojas 1, 2 e 3** apresentam melhores resultados gerais:
 
-* **Loja 1** é líder em faturamento;
+* **Loja 1** é a líder em faturamento;
 * **Loja 3** é a mais bem avaliada pelos clientes;
 * **Loja 2** tem equilíbrio entre desempenho e frete.
 
