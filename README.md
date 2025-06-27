@@ -43,6 +43,19 @@ As categorias mais e menos vendidas por cada loja foram:
 * **Loja 3**:  Mais vendida: *móveis (499)* / Menos vendida: *instrumentos musicais & utilidades domésticas (177)*
 * **Loja 4**:  Mais vendida: *móveis (480)* / Menos vendida: *instrumentos musicais (170)*
 
+<details>
+  <summary>📊 Ver gráficos referente as categorias mais e menos vendidas</summary>
+  
+  ![Gráfico das categorias mais e menos vendidas da loja 1](Graficos/vendas_categoria_loja1.png)
+
+  ![Gráfico das categorias mais e menos vendidas da loja 2](Graficos/vendas_categoria_loja2.png)
+
+  ![Gráfico das categorias mais e menos vendidas da loja 3](Graficos/vendas_categoria_loja3.png)
+
+  ![Gráfico das categorias mais e menos vendidas da loja 4](Graficos/vendas_categoria_loja4.png)
+
+</details>
+
 > 
 
 ---
